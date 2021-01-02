@@ -1,0 +1,14 @@
+{
+  "name": "nand2tetris-hdl-parser-node",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "Teddy Heinen <teddy@heinen.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.6.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
